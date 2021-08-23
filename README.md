@@ -1,2 +1,1 @@
-# thongtin.github.io
-Thông tin cá nhân
+# Nguyễn Long Hải
