@@ -1,0 +1,43 @@
+body {
+
+background: #ccc;
+}
+
+.container{
+margin: auto;
+padding: 200px;
+width: 300px;
+background: white;
+border-radius: 5px;
+text-align: center;
+}
+h1{
+  font-size: 30px;
+}
+
+input{
+padding: 4px 15px 4px 5px;
+}
+
+#add-todo-item{
+display: inline-block;
+background-color:#fc999b;
+color:#ffffff;
+border-radius: 5px;
+text-align:center;
+margin-top:2px;
+padding: 5px 15px;
+}
+
+#add-todo-item:hover{
+
+opacity: .8;}
+
+ul {
+  padding-left: 20px;
+  padding: 5px;color:#000;
+}
+
+.strike {
+  text-decoration: line-through;
+}
