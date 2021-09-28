@@ -5,7 +5,7 @@
 
 *Quê quán* : Yên Bái
 
-##Học vấn 
+## Học vấn 
 
 *Trường* : Đại học thủy lợi 
 
