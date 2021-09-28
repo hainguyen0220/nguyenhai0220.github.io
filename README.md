@@ -5,6 +5,13 @@
 
 *Quê quán* : Yên Bái
 
+##Học vấn 
+
+*Trường* : Đại học thủy lợi 
+
+*Ngành* : Công nghệ thông tin
+
+
 ## Thông Tin liên lạc
 
 *Số điện thoại* : 0376649962
